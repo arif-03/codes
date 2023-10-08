@@ -1,0 +1,14 @@
+name: aa
+roll: 33
+mark in subject 1: 44.00
+mark in subject 2: 55.00
+mark in subject 3: 77.00
+total marks 176.00 out of: 300
+CGPA: 2.75
+name: aas
+roll: 66
+mark in subject 1: 88.00
+mark in subject 2: 77.00
+mark in subject 3: 66.00
+total marks 231.00 out of: 300
+CGPA: 3.75

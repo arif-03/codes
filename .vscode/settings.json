@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "cmath": "c",
+        "complex": "c",
+        "random": "c",
+        "numbers": "c"
+    },
+    "cph.general.onceMaintainerMessage": false,
+    "java.debug.settings.onBuildFailureProceed": true
+}

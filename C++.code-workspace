@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "c",
+			"cmath": "c",
+			"complex": "c",
+			"random": "c",
+			"numbers": "c"
+		}
+	}
+}

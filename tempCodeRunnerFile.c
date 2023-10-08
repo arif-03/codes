@@ -1,0 +1,1 @@
+return (sqrt(sum/(float) b)) ;

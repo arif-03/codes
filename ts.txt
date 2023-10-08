@@ -1,0 +1,15 @@
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+CGPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+CGPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+CGPA: 0.00
+

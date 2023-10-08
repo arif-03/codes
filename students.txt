@@ -1,0 +1,262 @@
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: gcc
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd.c
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: o
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"new_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: gcc
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd.c
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: o
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"new_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: gcc
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd.c
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: o
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"new_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: gcc
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd.c
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: o
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: w_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: &&
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"new_file_for_even_odd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: cd
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.00 
+Total marks : 0.000000 out of 500
+
+GPA: 0.00
+
+Name: "/home/arif/Documents/arif/C++/"
+Roll: 0
+Marks: 0.00 0.00 0.00 0.00 0.
